@@ -1,0 +1,6 @@
+[submodule "GiftscopModifier"]
+	path = GiftscopModifier
+	url = https://github.com/ProjectHSI/GiftscopModifier.git
+[submodule "GiftscopBIE"]
+	path = GiftscopBIE
+	url = https://github.com/ProjectHSI/GiftscopBIE.git
